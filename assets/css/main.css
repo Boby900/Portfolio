@@ -3212,17 +3212,7 @@ background: linear-gradient(to right, #C6426E, #642B73) !important; /* W3C, IE 1
 		}
 
 		              
-.shake:hover{
-    animation-name: shakefix;
-        -webkit-animation-name: shakefix;
-        -moz-animation-name: shakefix;
-    animation-duration: 1s;
-        -webkit-animation-duration: 1s;
-        -moz-animation-duration: 1s;
-    animation-iteration-count: infinite;
-        -webkit-animation-iteration-count: infinite;
-        -moz-animation-iteration-count: infinite;
-}
+
 
     @keyframes shakefix {
         0%  {transform: translate(1px, 1px);}
