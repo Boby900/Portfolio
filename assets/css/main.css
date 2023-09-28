@@ -59,7 +59,9 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
-
+.col-4 .col-12-medium{
+	border: 12px solid black !important;
+}
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
